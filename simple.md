@@ -2,7 +2,7 @@
 
 **Bet**              | **Stake** | **Game**               | **Mary** | **Rob** | **Result** | **Winner**
 ---------------------|-----------|------------------------|----------|---------|------------|-----------
-Overall winning team | 50p       |                        | Aus      | Eng     | Aus        | Mary
+Overall winning team | 50p       |                        | Aus      | Eng     | Aus        | DRAW
 Winner               | 5p        | 1st ODI, Brisbane      | Aus      | Eng     | Aus        | Mary
 Winner               | 5p        | 2nd ODI, Coffs Harbour | Aus      | Eng     | Aus        | Mary
 Winner               | 5p        | 3rd ODI, Coffs Harbour | Aus      | Eng     | Eng        | Rob
